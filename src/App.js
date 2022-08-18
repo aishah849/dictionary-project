@@ -22,6 +22,23 @@ export default function App() {
             >
               Aishah Al-Rashid
             </a>
+            . Open sourced on{" "}
+            <a
+              href="https://github.com/aishah849/dictionary-project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Github
+            </a>{" "}
+            and hosted on{" "}
+            <a
+              href="https://startling-cranachan-53d023.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Netlify
+            </a>
+            .
           </small>
         </footer>
       </div>
